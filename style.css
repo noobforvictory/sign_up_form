@@ -75,6 +75,7 @@ img{
    padding: 10px;
    font-size: medium;
    font-weight: bold;
+   border-radius: 15px;
 }
 a{padding-left: 10px;
     color: #596D48;
